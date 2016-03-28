@@ -1,0 +1,74 @@
+body{
+    background-image: url(/app/img/aboutme%20.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.back{
+    text-align: center;
+    border-left: 10px solid #ffca28;
+    border-right: 10px solid #ffca28;
+}
+.about{
+     position: relative;
+}
+.about .title{
+    text-align: left;
+    padding-left: 40px;
+}
+
+.about .title .txt{
+   font-family: 'Poiret One';
+    font-size: 10em;
+    color: #36d7b7;
+}
+
+.description .bio{
+    padding: 50px 0px 0 40px ;
+}
+
+.description .bio h4{
+     color: #fff;
+    font-family:'Poiret One';
+    font-size: 3em;
+    text-align: left;
+}
+.description .bio p {
+    color: #fff;
+   font-family:'Raleway', sans-serif;
+    text-align: justify;
+
+}
+
+.description .tools{
+    padding: 90px 0px 0 50px;
+}
+
+.description .tools ol{
+    padding: 10px ;
+    list-style: none;
+      display:inline-block;
+     
+}
+.contact .social{
+    padding: 20px 0 0 0;
+}
+.contact .social ol{
+    font-size: 3em;
+    list-style: none;
+    float: left;
+}
+
+.contact .social ol li a{
+    text-decoration: none;
+     color: #4a4949;
+}
+.contact .social h4{
+    font-family:'Poiret One';font-weight:bolder;
+color: #fff;
+    text-align: left;
+    padding-left: 40px;
+}
+
+

@@ -1,0 +1,67 @@
+body{
+    background-image: url(/app/img/about/jjj.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.home{
+    padding-top: 150px;
+    
+}
+
+.home p{
+   font-family: 'Poiret One'; 
+   font-weight:bolder; 
+    font-size:17px;
+}
+.home .logo{
+    text-align: center;
+    
+}
+
+.home .header p{
+    color: #fff;
+    font-family: 'Poiret One';
+    font-size: 2.5em; font-weight:bolder;
+    letter-spacing: 5px;
+    border-bottom: 2px solid #5c5c5c;}       
+.home .header  h3{
+   
+    font-family: 'Poiret One';
+    font-size: 1.3em; font-weight:bolder;
+    
+    margin: auto 80px;
+}
+.home .icons {
+   padding-top: 40px;
+    
+}
+
+.home .icons .buttons ul{
+    list-style: none;text-align: center;
+}
+
+.home .icons .buttons ul a{
+    text-decoration: none;
+    float: left;
+    
+}
+
+.home .icons .buttons ul a li{
+   font-size: 4em;
+  color: #5c5c5c;
+   margin-right: 10px; padding: 5px;
+}
+
+footer p{
+    padding-top: 100px;
+    z-index: 100;
+    text-align: center;
+    float: right;
+    color:aliceblue; 
+}
+span:hover{
+    border-bottom: 3px solid #ffca28; 
+    
+}

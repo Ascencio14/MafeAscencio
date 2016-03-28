@@ -1,0 +1,35 @@
+.works{
+     background-image: url(/app/img/about/IMG_20150401_124757426_HDR.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+.works .title{
+    background-color: #fff;
+    border-bottom: 15px solid #36d7b7;
+}
+
+.works .title .txt{
+   font-family: 'Poiret One';
+    font-size: 10em;
+    color: #ffca28;
+}
+
+#picture{
+    background-color: #0d0d0d;
+    text-align: right;
+}
+
+.about .bio{
+    position: absolute;
+   color: white;
+    vertical-align: middle;
+    width: 600px;
+    top: 350px;
+    left: 150px;
+}
+#description{
+    font-family: 'Noto Sans';
+}
